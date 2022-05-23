@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">random-user-paging</string>
+
+    <string name="btn_paging_source">Paging Source</string>
+    <string name="btn_paging_mediator">Paging Mediator</string>
+
+    <string name="title_mediator">Paging Mediator</string>
+    <string name="title_source">Paging Source</string>
+</resources>
